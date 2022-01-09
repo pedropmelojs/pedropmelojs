@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tugakit&show_icons=true&hide_border=true" />
+  <img align="left" alt="Tugakit's GitHub Stats" src="https://wsedsdfsdfsdf.vercel.app/api?username=Tugakit&show_icons=true&hide_border=true" />
 
 </details>
 
