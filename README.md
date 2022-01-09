@@ -41,6 +41,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Tugakit/RPG_Game/pull/1) in [Tugakit/RPG_Game](https://github.com/Tugakit/RPG_Game)
+2. 🎉 Merged PR [#1](https://github.com/Tugakit/Arduino/pull/1) in [Tugakit/Arduino](https://github.com/Tugakit/Arduino)
+3. 💪 Opened PR [#1](https://github.com/Tugakit/Arduino/pull/1) in [Tugakit/Arduino](https://github.com/Tugakit/Arduino)
 <!--END_SECTION:activity-->
 
 </details>
