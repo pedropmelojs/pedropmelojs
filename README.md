@@ -44,7 +44,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#130](https://github.com/madlabsinc/teachcode/pull/130) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+1. 🎉 Merged PR [#1](https://github.com/Tugakit/RPG_Game/pull/1) in [Tugakit/RPG_Game](https://github.com/Tugakit/RPG_Game)
 2. 🎉 Merged PR [#129](https://github.com/madlabsinc/teachcode/pull/129) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 3. 🎉 Merged PR [#33](https://github.com/jamesgeorge007/csstox/pull/33) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
 4. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/csstox/pull/30) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
