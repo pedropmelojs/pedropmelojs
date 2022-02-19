@@ -17,17 +17,18 @@
 - 🎌 Learn to make a mobile app
 - 🥗 Have a healthier lifestyle
 
+## Activity
+Activite
+<!--START_SECTION:activity-->
+
+<!--STOP_SECTION:activity-->
+
 ## Connect with me:
 [<img align="left" alt="Tugakit | Instagram" width="32" src="https://img.icons8.com/color/100/000000/twitch--v1.png" />][Twitch]
 [<img align="left" alt="Tugakit | Twitter" width="32" src="https://img.icons8.com/color/64/000000/twitter--v2.png" />][Twitter]
 [<img align="left" alt="Tugakit | YouTube" width="32" src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/>][Youtube]
 [<img align="left" alt="Tugakit | Instagram" width="32" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][Instagram]
                     
-## Activity
-Activite
-<!--START_SECTION:activity-->
-
-<!--STOP_SECTION:activity-->
              
 ## Languages and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
