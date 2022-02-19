@@ -22,7 +22,8 @@
 [<img align="left" alt="Tugakit | YouTube" width="32" src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/>][Youtube]
 [<img align="left" alt="Tugakit | Instagram" width="32" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][Instagram]
 
-
+<br />
+<br />
 <br />
 
 ### Languages and Tools:
