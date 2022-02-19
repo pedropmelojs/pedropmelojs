@@ -4,6 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tugakit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTugakit&screen_name=Tugakit)                     
 <img alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />
 <br/>
+
 ## Second year student at CPNV, 
 
 - 🔭 Still learning today technologies !
@@ -24,7 +25,12 @@
 
 <br />
 <br />
+## Activity
+<!--START_SECTION:activity-->
 
+<!--STOP_SECTION:activity-->
+
+<br/>
 ## Languages and tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,9 +46,7 @@
 
 <img align="left" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 <br />
-<!--START_SECTION:activity-->
 
-<!--STOP_SECTION:activity-->
 [Twitter]: https://twitter.com/tugakit
 [Youtube]: https://youtube.com/tugakit
 [Instagram]: https://instagram.com/tugakit
