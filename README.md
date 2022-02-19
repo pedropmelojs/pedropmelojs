@@ -19,7 +19,7 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Tugakit/RPG_Game/pull/1) in [Tugakit/RPG_Game](https://github.com/Tugakit/RPG_Game)
+1. ❗️ Opened issue [#1](https://github.com/Tugakit/Tugakit/issues/1) in [Tugakit/Tugakit](https://github.com/Tugakit/Tugakit)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
