@@ -16,7 +16,7 @@
 - 🎌 Learn to make a mobile app
 - 🥗 Have a healthier lifestyle
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="Tugakit | Instagram" width="32" src="https://img.icons8.com/color/100/000000/twitch--v1.png" />][Twitch]
 [<img align="left" alt="Tugakit | Twitter" width="32" src="https://img.icons8.com/color/64/000000/twitter--v2.png" />][Twitter]
 [<img align="left" alt="Tugakit | YouTube" width="32" src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/>][Youtube]
