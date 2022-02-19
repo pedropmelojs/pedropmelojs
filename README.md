@@ -9,9 +9,10 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate much more
 - ⚡ Fun fact: Before i was a student i was learning the basics by myself
+
 ## 2022 GOALS:
-- 🛸 Master JavaScript and a framework
-- 🎌 Learn to use flutter (and Dart) to make a mobile app
+- 🛸 Master JavaScript and React Native
+- 🎌 Learn to make a mobile app
 - 🥗 Have a healthier lifestyle
 
 ### Connect with me:
