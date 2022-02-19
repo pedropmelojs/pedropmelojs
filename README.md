@@ -30,7 +30,7 @@ Activite
 [<img align="left" alt="Tugakit | Instagram" width="32" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][Instagram]
                     
              
-## Languages and tools:
+## Languages and tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -41,11 +41,9 @@ Activite
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />  <br/><br/>
-
-
 <img align="left" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 <br />
-
+         
 [Twitter]: https://twitter.com/tugakit
 [Youtube]: https://youtube.com/tugakit
 [Instagram]: https://instagram.com/tugakit
