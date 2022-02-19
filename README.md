@@ -38,7 +38,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/officel/80/000000/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/stickers/100/000000/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />  <br/>
+<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />                   
 <img align="left" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 <br />
          
