@@ -38,11 +38,8 @@
 
 <br />
 <br />
-
   <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+  <img align="right alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats">
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
