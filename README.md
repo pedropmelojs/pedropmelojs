@@ -38,8 +38,8 @@
 
 <br />
 <br />
-  <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />-
-  <img align="right" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+  <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="right" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
