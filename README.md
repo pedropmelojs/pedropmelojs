@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tugakit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTugakit&screen_name=Tugakit)                     
 <img alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />
 <br/>
-<img align="right" alt="Tugakit gif" width="50px" src="https://raw.githubusercontent.com/Tugakit/Tugakit/main/logoblanc.png">
+<img align="right" alt="Tugakit gif" width="50" src="https://raw.githubusercontent.com/Tugakit/Tugakit/main/logoblanc.png">
 ## Second year student at CPNV, 
 
 - 🔭 Still learning today technologies !
