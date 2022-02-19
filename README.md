@@ -18,7 +18,7 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Tugakit/Tugakit/issues/1) in [Tugakit/Tugakit](https://github.com/Tugakit/Tugakit)
+1. 🎉 Merged PR [#1](https://github.com/Tugakit/Personal-Website/pull/1) in [Tugakit/Personal-Website](https://github.com/Tugakit/Personal-Website)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
