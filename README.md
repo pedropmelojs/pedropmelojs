@@ -40,7 +40,9 @@
 
 <img align="left" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 <br />
+<!--START_SECTION:activity-->
 
+<!--STOP_SECTION:activity-->
 [Twitter]: https://twitter.com/tugakit
 [Youtube]: https://youtube.com/tugakit
 [Instagram]: https://instagram.com/tugakit
