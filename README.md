@@ -39,9 +39,7 @@
 <br />
 <br />
 
-  <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
----
+  <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
