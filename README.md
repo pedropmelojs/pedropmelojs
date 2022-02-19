@@ -39,6 +39,7 @@
 <img align="left" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit"><img align="top" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />
 <br />
 
-[twitter]: https://twitter.com/tugakit
-[youtube]: https://youtube.com/tugakit
-[instagram]: https://instagram.com/tugakit
+[Twitter]: https://twitter.com/tugakit
+[Youtube]: https://youtube.com/tugakit
+[Instagram]: https://instagram.com/tugakit
+[Twitch]: https://twitch.tv/tugakit
