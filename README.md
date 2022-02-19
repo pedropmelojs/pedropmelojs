@@ -24,6 +24,7 @@
 [<img align="left" alt="Tugakit | Instagram" width="32" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][Instagram]
                     
 ## Activity
+Activite
 <!--START_SECTION:activity-->
 
 <!--STOP_SECTION:activity-->
