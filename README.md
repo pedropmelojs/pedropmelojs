@@ -20,6 +20,8 @@
 ## Activity
 Activite
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Tugakit/RPG_Game/pull/1) in [Tugakit/RPG_Game](https://github.com/Tugakit/RPG_Game)
+<!--END_SECTION:activity-->
 
 <!--STOP_SECTION:activity-->
 
