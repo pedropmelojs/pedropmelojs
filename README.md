@@ -16,10 +16,11 @@
 - 🥗 Have a healthier lifestyle
 
 ### Connect with me:
-
-[<img align="left" alt="Tugakit | YouTube" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>][youtube]
-[<img align="left" alt="Tugakit | Twitter" width="22px" src="https://img.icons8.com/color/64/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="Tugakit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+[<img align="left" alt="Tugakit | YouTube" src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/>][Youtube]
+[<img align="left" alt="Tugakit | Twitter" src="https://img.icons8.com/color/64/000000/twitter--v2.png" />][Twitter]
+[<img align="left" alt="Tugakit | Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][Instagram]
+[<img align="left" alt="Tugakit | Instagram" src="https://img.icons8.com/color/100/000000/twitch--v1.png" />][Twitch]
 
 <br />
 
