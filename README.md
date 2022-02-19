@@ -41,16 +41,8 @@
   <img align="left" alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight" />
   <img align="right" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 
-[twitter]: https://twitter.com/tugakit
-[youtube]: https://youtube.com/tugakit
-[instagram]: https://instagram.com/tugakit
-<br>
-<br>
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Tugakit/RPG_Game/pull/1) in [Tugakit/RPG_Game](https://github.com/Tugakit/RPG_Game)
 <!--END_SECTION:activity-->
-
-</details>
