@@ -18,7 +18,7 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12321](https://github.com/uBlockOrigin/uAssets/issues/12321) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+1. 🎉 Merged PR [#1](https://github.com/Tugakit/JavaScript-course/pull/1) in [Tugakit/JavaScript-course](https://github.com/Tugakit/JavaScript-course)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
