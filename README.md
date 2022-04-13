@@ -18,7 +18,7 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Tugakit/JavaScript-course/pull/1) in [Tugakit/JavaScript-course](https://github.com/Tugakit/JavaScript-course)
+1. 🎉 Merged PR [#2](https://github.com/Tugakit/JavaScript-course/pull/2) in [Tugakit/JavaScript-course](https://github.com/Tugakit/JavaScript-course)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
