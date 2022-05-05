@@ -3,7 +3,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Tugakit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/followoriginal_referer=https%3A%2F%2Fgithub.com%2FTugakit&screen_name=Tugakit)                     
 <img alt="Tugakit's GitHub Stats" src="https://github-readme-stats-tugakit.vercel.app//api?username=Tugakit&show_icons=true&hide_border=true&theme=tokyonight"/> <br/>    <br/> 
-<img alt="Tugakit logo" align="right" width ="55%" src="https://raw.githubusercontent.com/Tugakit/Tugakit/main/Background.png">
 
 <a href="https://app.daily.dev/Tugakit"><img src="https://api.daily.dev/devcards/1592a77e09ad4868baad465be7c8d688.png?r=8ha" width="400" alt="Tugakit's Dev Card"/></a>
 
