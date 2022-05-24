@@ -19,7 +19,7 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12321](https://github.com/uBlockOrigin/uAssets/issues/12321) in [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)
+1. ❗️ Opened issue [#2](https://github.com/Tugakit/Tugakitter/issues/2) in [Tugakit/Tugakitter](https://github.com/Tugakit/Tugakitter)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
