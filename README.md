@@ -19,7 +19,7 @@
 
 ## Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Tugakit/Tugakitter/issues/2) in [Tugakit/Tugakitter](https://github.com/Tugakit/Tugakitter)
+1. ❗️ Opened issue [#3](https://github.com/Tugakit/Tugakitter/issues/3) in [Tugakit/Tugakitter](https://github.com/Tugakit/Tugakitter)
 <!--END_SECTION:activity-->
 
 ## Connect with me:
