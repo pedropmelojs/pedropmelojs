@@ -1,4 +1,4 @@
-### Hi there, I'm Pedro - aka Tugakit 👋 
+### Hi there, I'm Pedro - aka PedroPMelo.js 👋 
 
 <a href="https://app.daily.dev/Tugakit"><img src="https://api.daily.dev/devcards/1592a77e09ad4868baad465be7c8d688.png?r=8ha" width="300" alt="Tugakit's Dev Card"/></a>
 
