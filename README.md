@@ -29,8 +29,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/console.png" />                   <br> <br/>
 <img align="left" alt="Tugakit most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugakit">
 <br />
-         
-[Twitter]: https://twitter.com/tugakit
-[Youtube]: https://youtube.com/tugakit
-[Instagram]: https://instagram.com/tugakit
-[Twitch]: https://twitch.tv/tugakit
+
