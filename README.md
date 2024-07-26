@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro - aka PedroPMelo.js 👋 
 
-<a href="https://app.daily.dev/Tugakit"><img src="https://api.daily.dev/devcards/1592a77e09ad4868baad465be7c8d688.png?r=8ha" width="300" alt="Tugakit's Dev Card"/></a>
+<a href="https://app.daily.dev/pedropmelojs"><img src="https://api.daily.dev/devcards/v2/wPWSh9KaC8NwTo5OJf7vl.png?r=ciz&type=default" width="356" alt="PedroPMelo.js's Dev Card"/></a>
 
 ## 
 - 🔭 Learning today technologies !
