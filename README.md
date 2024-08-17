@@ -2,14 +2,17 @@
 
 <a href="https://app.daily.dev/pedropmelojs"><img src="https://api.daily.dev/devcards/v2/wPWSh9KaC8NwTo5OJf7vl.png?r=ciz&type=default" width="356" alt="PedroPMelo.js's Dev Card"/></a>
 
-## 
+## ABOUT ME:
 - 🔭 Learning today technologies !
-- 👯 I’m looking to collaborate much more
+- 👨🏻‍🎓 Self-taugt in many domains !
+- 🤝 Fully open to new adventures and opportunities!
 
 ## 2024 GOALS:
-- 🛸 Master a fullstack
-- 🎌 Learn low level languages like C
-  
+- 🛸 Master MERN stack
+- 🎌 Learn more languages like C#,Rust or Go
+- 🚀 Master Typescript
+- 🔥 Be more active on Github
+ 
 
 ## Activity
 <!--START_SECTION:activity-->
