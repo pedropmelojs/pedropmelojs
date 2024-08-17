@@ -12,12 +12,6 @@
 - 🎌 Learn more languages like C#,Rust or Go
 - 🚀 Master Typescript
 - 🔥 Be more active on Github
- 
-
-## Activity
-<!--START_SECTION:activity-->
-<!--  1. ❗️ Opened issue [#3](https://github.com/Tugakit/Tugakitter/issues/3) in [Tugakit/Tugakitter](https://github.com/Tugakit/Tugakitter) -->
-<!--END_SECTION:activity-->
 
 ## Languages and tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
